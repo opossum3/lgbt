@@ -9,7 +9,7 @@ Refuting myths and conspiracies surrounding
 # transgender people
 {: .no_toc }
 
-![minecraft bee is trans](https://opossum3.github.io/lgbt/images/transbee.png "Like bees, trans people are valuable members of our ecosystem that are feared needlessley. They usually aren't aggressive and only attack if you bother them first, but when they do, they are willing to fight to their death to protect themelves and those like them from your slander."){:width="30%"}
+![minecraft bee is trans](https://opossum3.github.io/lgbt/images/transbee.png "Like bees, trans people are valuable members of our ecosystem that are feared needlessley. They usually aren't aggressive and only attack if you bother them first for no good reason."){:width="30%"}
 
 A trans man is someone who at one point lived as a girl, but currently lives or wishes to live as a man. A trans woman is the reverse. You always refer to trans people with the gender they live as/would prefer to live as, not what they used to be - just like with someone changing their surname when marrying.
 
