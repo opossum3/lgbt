@@ -16,11 +16,18 @@ Refuting myths and conspiracies surrounding
 ## Trans people are delusional.
 Delusion refers to a belief in something that is verifiably not true and contrary to reality.
 
-Tans people believe that
-- they were _supposed to_ have a different body than they were born with (in terms of sex characteristics)
-and/or
-- live a different social role (in regards to gender) than they once lived as.
+Trans people
+- believe that they _should_ have had a different body (in terms of sex characteristics) than they were born with
 
-This internal idea/conviction of what sex you _ought_ to have or what gender you _ought_ to live as is what's called "gender identity".
+and/or 
+- want to live a different social role (in terms of gender) than they at some point lived.
 
-Such a belief can't be verifiably untrue and contrary to reality, since it's explicitly a statement about something hypothetical (what was "supposed to" be). Hence it also can't be delusional.
+{: .note-title }
+> Note
+> 
+> This internal idea/conviction of what sex you _ought_ to be or what gender you _ought_ to live as - whether you managed to do so already or not - is what's called "gender identity". Everyone has it, but trans people notice it the most, because their bodies and social life conflict(ed) with it.
+
+Beliefs about what was _supposed to_ have been, as well as wishes, can't be "contrary to reality", because they don't make statements about reality to begin with.
+
+Trans people do **not** think they always lived as the gender they desire to embody, as some people claim. If they did, they would not think they need to come out or undergo medical treatment. But they do, because they are perfectly aware of the mismatch between their desires and their reality before transition. It's insulting to imply otherwise.
+
