@@ -5,4 +5,10 @@ theme: just-the-docs
 url: https://opossum3.github.io/lgbt
 
 aux_links:
-  EMERGENCY EXIT: https://www.wikihow.com/Tell-the-Difference-Between-a-Frog-and-a-Toad#Considering-Behavior
+  EXIT: https://www.wikihow.com/Tell-the-Difference-Between-a-Frog-and-a-Toad#Considering-Behavior
+
+
+nav_external_links:
+  - title: Exit website
+    url: https://www.wikihow.com/Tell-the-Difference-Between-a-Frog-and-a-Toad#Considering-Behavior
+    hide_icon: true # set to true to hide the external link icon - defaults to false
