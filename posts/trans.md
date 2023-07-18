@@ -7,9 +7,11 @@ permalink: /trans/
 
 Refuting myths and conspiracies surrounding
 # transgender people
+{: .no_toc }
 
 ![minecraft bee is trans](https://opossum3.github.io/lgbt/images/transbee.png "Like bees, trans people are valuable members of our ecosystem that are feared needlessley. They usually aren't aggressive and only attack if you bother them first for no good reason."){:width="30%"}
 
+1. Table of contents
 {:toc} 
 
 ## Basic terminology
@@ -32,7 +34,4 @@ and/or
 Beliefs about what was _supposed to_ have been, as well as wishes, can't be "contrary to reality", because they don't make statements about reality to begin with.
 
 Trans people do **not** think their bodies and social lives always match(ed) the gender and sex they want to embody, as some people claim. They are perfectly aware of the mismatch between their desires and their reality before transition, they wouldn't come out and undergo medical procedures if they weren't.
-
-{: .note}
-> This internal idea/conviction of what sex you _ought_ to be or what gender you _ought_ to live as - whether you do so already or not - is what's called "gender identity". Everyone has it, but trans people notice it the most, because their bodies and social life conflict(ed) with it.
 
