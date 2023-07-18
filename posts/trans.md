@@ -29,9 +29,9 @@ Trans people
 - believe that they _should_ have had a different body than they were born with
 
 and/or 
-- want to live in a different social role than they at some point lived.
+- want to socially live as a different gender than they currently do (or used to live as).
 
-Beliefs about what was _supposed to_ have been, as well as wishes, can't be "contrary to reality", because they don't make statements about reality to begin with.
+Beliefs about what was _supposed to_ have been, as well as wishes, can't be "contrary to reality", because they don't make statements about reality to begin with. Therefore they can't be delusional.
 
 Trans people do **not** think their bodies and social lives always match(ed) the gender and sex they want to embody, as some people claim. They are perfectly aware of the mismatch between their desires and their reality before transition, they wouldn't come out and undergo medical procedures if they weren't.
 
