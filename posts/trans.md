@@ -8,7 +8,10 @@ permalink: /trans/
 Refuting myths and conspiracies surrounding
 # transgender people
 {: .no_toc }
-![minecraft bee is trans](https://antireaction.github.io/queerrights-en/assets/images/transbee.png "Like bees, trans people are valuable members of our ecosystem that are feared needlessley. They usually aren't aggressive and only attack if you bother them first, but when they do, they are willing to fight to their death to protect themelves and those like them from your slander.")
+
+![minecraft bee is trans](https://opossum3.github.io/lgbt/images/transbee.png "Like bees, trans people are valuable members of our ecosystem that are feared needlessley. They usually aren't aggressive and only attack if you bother them first, but when they do, they are willing to fight to their death to protect themelves and those like them from your slander.")
+
+{:toc} 
 
 ## Trans people are delusional.
 Delusion refers to a belief in something that is verifiably not true and contrary to reality.
